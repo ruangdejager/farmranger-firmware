@@ -1,0 +1,7 @@
+# Nothing to build here — this repo hosts pre-built artifacts pushed from
+# the firmware projects. Ignore only editor / OS cruft.
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
