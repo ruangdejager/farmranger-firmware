@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.3",
+    "version":  "1.0.4",
     "file":  "latest.bin",
     "size":  136240,
-    "crc32":  "6E64AF30",
-    "xor":  "21"
+    "crc32":  "BC34D18D",
+    "xor":  "26"
 }
