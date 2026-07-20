@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.3",
-    "file":  "frtag2_1_0_3.bin",
-    "size":  96492,
-    "crc32":  "CF466AEA",
-    "xor":  "DA"
+    "version":  "1.0.13",
+    "file":  "frtag2_1_0_13.bin",
+    "size":  96960,
+    "crc32":  "64483247",
+    "xor":  "DF"
 }
