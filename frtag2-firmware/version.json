@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.30",
-    "file":  "frtag2_1_0_30.bin",
-    "size":  100208,
-    "crc32":  "5A9C5B7F",
-    "xor":  "27"
+    "version":  "2.0.1",
+    "file":  "frtag2_2_0_1.bin",
+    "size":  100248,
+    "crc32":  "975E01C5",
+    "xor":  "8A"
 }
